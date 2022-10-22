@@ -1,7 +1,9 @@
 {
-  "token": "0124567890:FILL_YOUR_BOT_TOKEN",
-  "api_id": 1234567,
-  "api_hash": "fill_your_api_hash",
+  "token": "5719687586:AAE1l8DG27BkpJMwocT0GOYvT9NoF5m4lok",
+  "api_id": 29377485,
+  "api_hash": "7784d0bf8f0a794d618fbd2c19fb324a",
   "links": ["invited_link_for_prefetching_group_members"],
   "keywords": ["@all", "@everyone", "@MentionAllMembersBot"]
+   python dump_users.py
+  python bot.py
 }
